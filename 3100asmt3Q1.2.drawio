@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T05:39:52.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="_1Hv2DZU9n8zecRkk2ca" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T05:50:36.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="aMo7Pte3_mhSkkc-o-ft" version="16.6.6" type="github">
   <diagram id="FBnLz8GloL5e5-l2CE9u" name="Page-1">
     <mxGraphModel dx="2178" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,30 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="25" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="-120" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-2" value="P1:check_needed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry y="320" width="150" height="30" as="geometry" />
+          <mxGeometry x="-140" y="320" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="y7e9covMwFmBckXpodB2-3" target="y7e9covMwFmBckXpodB2-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-3" value="" style="line;strokeWidth=10;direction=south;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="150" y="200" width="10" height="160" as="geometry" />
+          <mxGeometry x="30" y="200" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-6" value="T1: arrange doctor&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="97.5" y="160" width="115" height="30" as="geometry" />
+          <mxGeometry x="-10" y="160" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4oigvbjeJpt0uM_-PQVC-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="y7e9covMwFmBckXpodB2-7" target="4oigvbjeJpt0uM_-PQVC-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="4oigvbjeJpt0uM_-PQVC-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="y7e9covMwFmBckXpodB2-7" target="4oigvbjeJpt0uM_-PQVC-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="110" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-9" value="P2:wait_doctor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="180" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="90" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="y7e9covMwFmBckXpodB2-10" target="y7e9covMwFmBckXpodB2-14" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -41,7 +39,7 @@
         <mxCell id="y7e9covMwFmBckXpodB2-10" value="" style="line;strokeWidth=10;direction=south;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="450" y="-10" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7e9covMwFmBckXpodB2-11" value="T2: &amp;nbsp;allergy to commonly-used drugs or don&#39;t know allergy history" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="y7e9covMwFmBckXpodB2-11" value="T3: &amp;nbsp;allergy to commonly-used drugs or don&#39;t know allergy history" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="325" y="-60" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.506;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="y7e9covMwFmBckXpodB2-14" target="y7e9covMwFmBckXpodB2-17" edge="1">
@@ -72,7 +70,7 @@
         <mxCell id="y7e9covMwFmBckXpodB2-20" value="P5:not_take_vaccine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="825" y="110" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y7e9covMwFmBckXpodB2-21" value="T3: test positive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="y7e9covMwFmBckXpodB2-21" value="T4: test positive" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="730" y="-50" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="y7e9covMwFmBckXpodB2-25" target="y7e9covMwFmBckXpodB2-29" edge="1">
@@ -83,7 +81,7 @@
         <mxCell id="y7e9covMwFmBckXpodB2-25" value="" style="line;strokeWidth=10;direction=south;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="540" y="200" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7e9covMwFmBckXpodB2-26" value="T4: know he/she not allergy to drugs or test negative" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="y7e9covMwFmBckXpodB2-26" value="T5: know he/she not allergy to drugs or test negative" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="414" y="150" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.494;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="y7e9covMwFmBckXpodB2-29" edge="1" target="y7e9covMwFmBckXpodB2-32">
@@ -110,7 +108,7 @@
         <mxCell id="y7e9covMwFmBckXpodB2-32" value="" style="line;strokeWidth=10;direction=south;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="790" y="200" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7e9covMwFmBckXpodB2-33" value="T5: conflicted drug exists" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="y7e9covMwFmBckXpodB2-33" value="T6: conflicted drug exists" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="730" y="160" width="172.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;" parent="1" vertex="1">
@@ -127,7 +125,7 @@
         <mxCell id="y7e9covMwFmBckXpodB2-38" value="" style="line;strokeWidth=10;direction=south;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="790" y="410" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7e9covMwFmBckXpodB2-39" value="T6: no conflicted drug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="y7e9covMwFmBckXpodB2-39" value="T7: no conflicted drug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="705" y="380" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="y7e9covMwFmBckXpodB2-42" target="y7e9covMwFmBckXpodB2-45" edge="1">
@@ -147,7 +145,7 @@
         <mxCell id="y7e9covMwFmBckXpodB2-45" value="" style="line;strokeWidth=10;direction=south;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1010" y="410" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7e9covMwFmBckXpodB2-47" value="T7 decide vaccine with his/her age" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="y7e9covMwFmBckXpodB2-47" value="T8 decide vaccine with his/her age" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="950" y="380" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="y7e9covMwFmBckXpodB2-49" edge="1">
@@ -169,7 +167,7 @@
         <mxCell id="y7e9covMwFmBckXpodB2-54" value="" style="line;strokeWidth=10;direction=south;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1220" y="410" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y7e9covMwFmBckXpodB2-55" value="T8: determined vaccine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="y7e9covMwFmBckXpodB2-55" value="T9: determined vaccine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1145" y="375" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;" parent="1" vertex="1">
@@ -179,7 +177,7 @@
           <mxGeometry x="1290" y="540" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y7e9covMwFmBckXpodB2-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="50" y="265" width="30" height="30" as="geometry" />
+          <mxGeometry x="-95" y="265" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4oigvbjeJpt0uM_-PQVC-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="4oigvbjeJpt0uM_-PQVC-4" target="y7e9covMwFmBckXpodB2-10">
           <mxGeometry relative="1" as="geometry" />
@@ -195,6 +193,15 @@
         </mxCell>
         <mxCell id="4oigvbjeJpt0uM_-PQVC-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="y7e9covMwFmBckXpodB2-47" target="y7e9covMwFmBckXpodB2-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oigvbjeJpt0uM_-PQVC-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="4oigvbjeJpt0uM_-PQVC-11" target="4oigvbjeJpt0uM_-PQVC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oigvbjeJpt0uM_-PQVC-11" value="" style="line;strokeWidth=10;direction=south;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4oigvbjeJpt0uM_-PQVC-14" value="T2: see the doctor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="162.5" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
