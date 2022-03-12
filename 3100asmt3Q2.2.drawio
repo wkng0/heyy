@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T05:42:52.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="B0CRHhLjtmu7apd2O0UL" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T06:04:36.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="VChqqV2KtNfFHUYrUJKO" version="17.1.1" type="github">
   <diagram id="HLjwf-8nd1L1e6h1RGKW" name="Page-1">
-    <mxGraphModel dx="2404" dy="2244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2719" dy="2459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,6 +407,9 @@
         <mxCell id="6KRZwWpIwKZqXMkIKamP-176" value="T25: cannot move the stone of team A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1117" y="1048" width="200" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="jnbDORSLOD9sxaMhr8QB-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.475;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="6KRZwWpIwKZqXMkIKamP-177" target="jnbDORSLOD9sxaMhr8QB-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6KRZwWpIwKZqXMkIKamP-177" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1363" y="1141" width="80" height="80" as="geometry" />
         </mxCell>
@@ -466,6 +469,9 @@
         </mxCell>
         <mxCell id="6KRZwWpIwKZqXMkIKamP-201" value="T28: both get out of the circle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1132" y="2038" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jnbDORSLOD9sxaMhr8QB-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="6KRZwWpIwKZqXMkIKamP-204" target="jnbDORSLOD9sxaMhr8QB-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6KRZwWpIwKZqXMkIKamP-204" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1363" y="2117.9999999999995" width="80" height="80" as="geometry" />
