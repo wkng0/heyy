@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T15:27:32.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="UYaqDYFXz2kbv69aPIQR" version="17.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T15:28:18.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="3a3ZgB0Qn6xxstlWjMvw" version="17.5.1" type="github">
   <diagram id="OHMc5WxwLQ-EuT42wzIY" name="Page-1">
     <mxGraphModel dx="2178" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XOgsZHfNZ23aSHB6z0Y0-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="XOgsZHfNZ23aSHB6z0Y0-1" target="XOgsZHfNZ23aSHB6z0Y0-64">
+        <mxCell id="XOgsZHfNZ23aSHB6z0Y0-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="XOgsZHfNZ23aSHB6z0Y0-1" target="XOgsZHfNZ23aSHB6z0Y0-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XOgsZHfNZ23aSHB6z0Y0-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="389" y="-30" width="50" height="50" as="geometry" />
+          <mxGeometry x="389" y="-270" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XOgsZHfNZ23aSHB6z0Y0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="XOgsZHfNZ23aSHB6z0Y0-7">
           <mxGeometry relative="1" as="geometry">
@@ -245,6 +245,18 @@
         </mxCell>
         <mxCell id="XOgsZHfNZ23aSHB6z0Y0-75" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="339.5" y="960" width="51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOgsZHfNZ23aSHB6z0Y0-77" value="account exist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOgsZHfNZ23aSHB6z0Y0-79" value="account not exist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOgsZHfNZ23aSHB6z0Y0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="XOgsZHfNZ23aSHB6z0Y0-80" target="XOgsZHfNZ23aSHB6z0Y0-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOgsZHfNZ23aSHB6z0Y0-80" value="check Email" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
