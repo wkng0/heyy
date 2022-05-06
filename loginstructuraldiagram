@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T02:52:15.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" version="17.5.1" etag="tweLzT7hIUBL12NOOUT5" type="github"><diagram id="12k-66XYUDxcA0u-WfI3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-06T02:55:33.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="Rb1C2wOV5uuBDUcagMpS" version="17.5.1" type="github">
+  <diagram id="12k-66XYUDxcA0u-WfI3" name="Page-1">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="YRmyU3QmrhSAWpvIlhuW-1" target="YRmyU3QmrhSAWpvIlhuW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-1" value="Login System" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="YRmyU3QmrhSAWpvIlhuW-2" target="YRmyU3QmrhSAWpvIlhuW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="YRmyU3QmrhSAWpvIlhuW-2" target="YRmyU3QmrhSAWpvIlhuW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-2" value="Check Email" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="YRmyU3QmrhSAWpvIlhuW-3" target="YRmyU3QmrhSAWpvIlhuW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-3" value="Login With Password" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="YRmyU3QmrhSAWpvIlhuW-4" target="YRmyU3QmrhSAWpvIlhuW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-4" value="Register" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="YRmyU3QmrhSAWpvIlhuW-5" target="YRmyU3QmrhSAWpvIlhuW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-5" value="Forget Password" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="YRmyU3QmrhSAWpvIlhuW-6" target="YRmyU3QmrhSAWpvIlhuW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-6" value="Email Veification" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-7" value="Change Password" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="YRmyU3QmrhSAWpvIlhuW-8" target="YRmyU3QmrhSAWpvIlhuW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-8" value="Fill in account information" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRmyU3QmrhSAWpvIlhuW-9" value="Email Verification" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
